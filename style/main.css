@@ -1,0 +1,15 @@
+body{
+    text-align:justify;
+    background-color:black;
+}
+
+p{
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+
+    color:cornflowerblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
