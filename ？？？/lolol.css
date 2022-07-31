@@ -1,7 +1,8 @@
 body{
     text-align:center;
     background-color:black;
-    filter: blur(64px) grayscale(100%);
+    filter: blur(32px) grayscale(100%);
+    transform: rotate(180deg);
 }
 
 p{
