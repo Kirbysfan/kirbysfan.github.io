@@ -1,7 +1,7 @@
 body{
     text-align:center;
     background-color:black;
-    filter: blur(96px);
+    filter: blur(64px);
     filter: grayscale(100%);
 }
 
