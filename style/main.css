@@ -44,13 +44,12 @@ img{
 .hf{
     border-radius: 15px;
     background-color: gray;
-    margin: 0 96px 0 96px;
 }
 .navigate{
     border-radius:15px;
     background-color: gray;
     margin: 0 4px 0 4px;
-    padding: 0 4px 0 4px;
+    padding: 0 8px 0 8px;
 }
 .hoshi{
     height: 16px;
