@@ -49,8 +49,8 @@ img{
 .navigate{
     border-radius:15px;
     background-color: gray;
-    margin: 0 8px 0 8px;
-    padding: 0 8px 0 8px;
+    margin: 0 4px 0 4px;
+    padding: 0 4px 0 4px;
 }
 .hoshi{
     height: 16px;
@@ -59,4 +59,8 @@ img{
 button{
     background-color: white;
     border-radius: 15px;
+}
+.welcome{
+    width: fit-content;
+    max-width: 100%;
 }
