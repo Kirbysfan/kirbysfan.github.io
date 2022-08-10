@@ -10,7 +10,7 @@ p{
 
 a{
 
-    color:cornflowerblue;
+    color: skyblue;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -34,9 +34,29 @@ h2{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .u_cannot_see_me_uwu{
-    color:black
+    color:gray;
 }
 
 img{
     width: 720px;
+}
+
+.hf{
+    border-radius: 15px;
+    background-color: gray;
+    margin: 0 96px 0 96px;
+}
+.navigate{
+    border-radius:15px;
+    background-color: gray;
+    margin: 0 8px 0 8px;
+    padding: 0 8px 0 8px;
+}
+.hoshi{
+    height: 16px;
+    width: 16px;
+}
+button{
+    background-color: white;
+    border-radius: 15px;
 }
