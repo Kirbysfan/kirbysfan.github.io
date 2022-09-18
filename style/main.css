@@ -2,7 +2,7 @@ body{
     text-align:center;
     background-color:black;
     display: flex;
-    justify-items: center;
+    justify-content: center;
 }
 
 p{
