@@ -1,6 +1,9 @@
 body{
     text-align:center;
     background-color:black;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
 }
 
 p{
